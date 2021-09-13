@@ -8,6 +8,7 @@
 - [ADAS / Software Update Trend](#adas--software-update-trend)
 - [2021/09/13](#20210913)
   - [VW : IDシリーズにOTAソフトウェア更新を開始](#vw--idシリーズにotaソフトウェア更新を開始)
+  - [Toyota : Advanced Drive の OTAソフトウェアアップデート](#toyota--advanced-drive-の-otaソフトウェアアップデート)
 - [2021/06/27](#20210627)
   - [Volvo : 次世代EVにLuminar LiDAR/NVIDIA DRIVE Orin採用を発表](#volvo--次世代evにluminar-lidarnvidia-drive-orin採用を発表)
   - [Tesla : FSD v9のリリースでサブスクも導入か](#tesla--fsd-v9のリリースでサブスクも導入か)
@@ -108,6 +109,21 @@
 > - [Volkswagen introduces Over-the-Air Updates for all ID. models](https://www.volkswagenag.com/en/news/2021/09/Volkswagen_introduces_Over-the-Air_Updates.html)
 > - [Volkswagen introduces Over-the-Air Updates for all ID. models | Videos & Footage | Volkswagen Newsroom](https://www.volkswagen-newsroom.com/en/videos-and-footage/volkswagen-introduces-over-the-air-updates-for-all-id-models-5876)
 > - [My VW Id.3 got Over The Air Update OTA 2.3 (0910) + Infotainment system tour - YouTube](https://www.youtube.com/watch?v=OFhQviNxYfo)
+
+## Toyota : Advanced Drive の OTAソフトウェアアップデート
+
+こちらのサイトでソフトウェアアップデートの更新情報と、更新された走行可能なMAPデータが確認できます。
+
+- リリース日：2021/7/28
+- 更新バージョン：02.00
+- 更新時間：2.0h
+- 更新内容
+  - #01	高速道路本線へ合流後、Advanced Driveが使用可能となるまでの時間を短縮
+  - #02	車線変更支援を提供できる場面を追加
+  - #03	自車前方の割り込み車両のウインカー検知時の減速フィーリングの変更
+
+
+[LEXUS ‐ Lexus Teammate | TECHNOLOGY](https://lexus.jp/technology/teammate/?p=l-tokyo)
 
 # 2021/06/27
 
