@@ -11,6 +11,9 @@
         - [EQSに搭載される自動運転レベル](#eqsに搭載される自動運転レベル)
   - [OTAソフトウェアアップデート](#otaソフトウェアアップデート)
     - [EQS](#eqs)
+      - [アップデート範囲/アイテム](#アップデート範囲アイテム)
+      - [更新方法 ](#更新方法-n4)
+      - [提供方法](#提供方法)
   - [参照リンク](#参照リンク)
 
 <!-- /code_chunk_output -->
@@ -58,7 +61,7 @@
 
 ### EQS
 
-アップデート範囲/アイテム
+#### アップデート範囲/アイテム
 
 - 後輪操舵の舵角を最大10degに変更可能（標準仕様は4.5deg)[^ota1]
 - IVI各種アプリのダウンロード
@@ -68,13 +71,13 @@
 - "The best or nothing" プログラム（車載機能のデモ用モード：様々な機能がアクティベートされる）[^N4]
 - 車載ECUの大部分をOTA更新可能（*サービスおよびメンテナンス目的*）[^N4]
 
-更新方法 [^N4]
+#### 更新方法 [^N4]
 
 - 夜間に更新し翌朝に利用できる
 - ユーザー許諾は必須
 - 車載通信モジュールを利用
 
-提供方法
+#### 提供方法
 
 以下のサービス提供の形を計画していると発表されている [^N4]
 
@@ -83,9 +86,16 @@
 - 一時的なアクティベート（'temporary activations'）
 - 無料のテスト期間（'free test phases'）
 
+**サブスクリプション** 
+
+|Item|Price|Price(円換算)|
+|---|---|---|
+|リアステア切れ角10度まで解放[^ota3]|€489/year|約63,500円/年|
+|ビギナードライバモード[^ota3]|€50/year|約6500/年|
+
 [^ota1]: [メルセデス・ベンツ 新型EQSはフル充電で780km走行可！ 注目は巨大モニター抜群の操作性と全長5m超のサイズを感じさせない運転のしやすさにあった|【徹底検証】2021年新型車種ー試乗レポート【MOTA】](https://autoc-one.jp/mercedes-benz/s-class/report-5011171/)
 [^ota2]:[メルセデスベンツの新型EV『EQS』、充電を支援する最新コネクト採用 | レスポンス（Response.jp）](https://response.jp/article/2021/04/07/344734.html)
-
+[^ota3]:[Mercedes EQS OTA Updates – Literally Everything That Is Wrong With Cars of the Future](https://www.topspeed.com/cars/car-news/mercedes-eqs-ota-updates-literally-everything-that-is-wrong-with-cars-of-the-future-ar192513.html)
 ---
 
 ## 参照リンク
