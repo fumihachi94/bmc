@@ -245,12 +245,13 @@ Fordは2021年7~9月に、ハンズオフ機能（BlueCruise）をF-150とMastab
 
 ## Tesla : $2Kで加速度を向上させる課金サービスを提供
 
-Teslaは、\$2,000で0-60mphまでの加速を4.8s→4.2sに向上させる課金サービスを提供。
+Teslaは、\$2,000で0-60mph (0-100km/h)までの加速を~~4.8s→4.2s~~ 4.8s→3.7sに向上させる課金サービスを提供。
 こんな加速を向上させるだけの機能で\$2,000もとるのか…。
 
 > 参考：
 > - [Tesla Improves Model 3 LR, $2K Acceleration Boost Now Hits 60 in 3.7s](https://www.tesmanian.com/blogs/tesmanian-blog/tesla-improves-its-model-3-lr-2k-acceleration-boost-performance-to-3-7-seconds)
 > - [Twitter](https://twitter.com/tesla_utah/status/1378376523971928067/photo/1)
+> - [Tesla “Acceleration Boost” 2021 model 3 | テスカス](https://teskas.net/forums/topic/43191/)
 
 # 2021/04/08
 
