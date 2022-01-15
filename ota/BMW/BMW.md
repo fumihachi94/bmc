@@ -1,6 +1,6 @@
 [<img src="./image/BMW-icon.png" width=70px>](https://www.bmw.com/en/index.html)
 
-BMW Benchmark on Software Update 
+# BMW Benchmark on Software Update 
 
 
 
@@ -8,13 +8,14 @@ BMW Benchmark on Software Update
 
 <!-- code_chunk_output -->
 
-- [Web links](#web-links)
-- [News](#news)
-- [Summarize](#summarize)
-- [UI / How to OTA](#ui--how-to-ota)
-- [Update log](#update-log)
-      - [2021.10.11 : Ver.21-07](#20211011--ver21-07)
-- [Billing contents](#billing-contents)
+- [BMW Benchmark on Software Update](#bmw-benchmark-on-software-update)
+  - [Web links](#web-links)
+  - [News](#news)
+  - [Summarize](#summarize)
+  - [UI / How to OTA](#ui--how-to-ota)
+  - [Update log](#update-log)
+        - [2021.10.11 : Ver.21-07](#20211011--ver21-07)
+  - [Billing contents](#billing-contents)
 
 <!-- /code_chunk_output -->
 
@@ -22,8 +23,8 @@ BMW Benchmark on Software Update
 
 ## Web links
 
-[BMW - EN](https://www.bmw.com/en/index.html)
-[BMW - JP](https://www.bmw.co.jp/ja/index.html)
+- [BMW - EN](https://www.bmw.com/en/index.html)  
+- [BMW - JP](https://www.bmw.co.jp/ja/index.html)
 
 
 ## News
@@ -33,6 +34,8 @@ BMW Benchmark on Software Update
 
 
 ## Summarize
+
+メンテナンス中
 
 - OTA対象： AD/ADAS, ナビ、MM
 - 通信契約：
