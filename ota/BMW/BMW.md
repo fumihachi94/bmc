@@ -14,7 +14,7 @@
   - [Summarize](#summarize)
   - [UI / How to OTA](#ui--how-to-ota)
   - [Update log](#update-log)
-        - [2021.10.11 : Ver.21-07](#20211011--ver21-07)
+    - [2021.10.11 : Ver.21-07](#20211011--ver21-07)
   - [Billing contents](#billing-contents)
 
 <!-- /code_chunk_output -->
@@ -49,12 +49,13 @@
 
 ## UI / How to OTA
 
+- [BMW OTA update UI](BMW-UI.md)
 - [Remote Software Upgrade: The Software Update from BMW | BMW.com.au](https://www.bmw.com/en-au/offers-and-services/bmw-digital-services-and-connectivity/remote-software-upgrade.html)
-- [BMW OTA update UI - OS8](BMW-UI.md)
+
 
 ## Update log
   
-##### 2021.10.11 : Ver.21-07
+### 2021.10.11 : Ver.21-07
 
 > - 対象車両：iDrive OS7 搭載車両
 > - 更新方法：OTA（更新手段は2通り）
