@@ -58,13 +58,13 @@ BMW OS8 のOTA更新方法の説明動画は以下
 
 ## ⑥ すぐに更新
 - `"Start upgrade now"`を選択
-  <img src="./image/UI/bmw-ota-ui-012.png" width=50%>
+<img src="./image/UI/bmw-ota-ui-012.png" width=50%>
 - 安全な場所に駐車し、`"OK, vehicle os parked sagety"`を選択
-  <img src="./image/UI/bmw-ota-ui-013.png" width=50%>
+<img src="./image/UI/bmw-ota-ui-013.png" width=50%>
 - `"Start upgrade now"`を選択
-  <img src="./image/UI/bmw-ota-ui-014.png" width=50%>
+<img src="./image/UI/bmw-ota-ui-014.png" width=50%>
 - インストールの注意事項が全て整っているかチェック
-  <img src="./image/UI/bmw-ota-ui-015.png" width=50%>
+<img src="./image/UI/bmw-ota-ui-015.png" width=50%>
 - 全てのチェックがOKになると、10秒後に更新が始まる
 （ここでやっぱりとめたいときは`"Perform upgrade later"`を選択する）
 <img src="./image/UI/bmw-ota-ui-016.png" width=50%>
