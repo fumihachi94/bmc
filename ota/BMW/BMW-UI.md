@@ -6,6 +6,7 @@
 <!-- code_chunk_output -->
 
 - [BMW OTA update UI](#bmw-ota-update-ui)
+- [HOW to Software Update](#how-to-software-update)
 - [BMW OS8](#bmw-os8)
   - [① 更新ソフトのダウンロード](#-更新ソフトのダウンロード)
   - [② ダウンロード完了通知](#-ダウンロード完了通知)
@@ -19,6 +20,9 @@
 
 <!-- /code_chunk_output -->
 
+# HOW to Software Update
+
+- [Remote Software Upgrade: The Software Update from BMW | BMW.com.au](https://www.bmw.com/en-au/offers-and-services/bmw-digital-services-and-connectivity/remote-software-upgrade.html)
 
 #  BMW OS8 
 
@@ -27,7 +31,7 @@ BMW OS8 のOTA更新方法の説明動画は以下
 
 ## ① 更新ソフトのダウンロード 
 - 車両利用している間にバックグラウンドでダウンロードされる
-- ダウンロード開始操作は紹介なし
+<img src="./image/UI/bmw-ota-ui-022.png" width=50%>
 <img src="./image/UI/bmw-ota-ui-001.png" width=50%>
 
 ## ② ダウンロード完了通知

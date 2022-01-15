@@ -49,6 +49,7 @@
 
 ## UI / How to OTA
 
+- [Remote Software Upgrade: The Software Update from BMW | BMW.com.au](https://www.bmw.com/en-au/offers-and-services/bmw-digital-services-and-connectivity/remote-software-upgrade.html)
 - [BMW OTA update UI - OS8](BMW-UI.md)
 
 ## Update log
