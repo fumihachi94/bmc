@@ -59,6 +59,8 @@
 ---
 
 ## Update log
+
+- [Keep your BMW fully up to date: all Remote Software Upgrades at a glance | BMW.com.au](https://www.bmw.com/en-au/offers-and-services/bmw-digital-services-and-connectivity/all-remote-software-upgrades.html)
   
 ### 2021.10.11 : Ver.21-07
 
@@ -90,7 +92,6 @@
 ### 過去のリリースノート
 
 参考リンク
->  - [Keep your BMW fully up to date: all Remote Software Upgrades at a glance | BMW.com.au](https://www.bmw.com/en-au/offers-and-services/bmw-digital-services-and-connectivity/all-remote-software-upgrades.html)
 >  - [210203_RSU_FINAL_AUmarket.pdf.asset.1622106485233.pdf](https://www.bmw.com/content/dam/bmw/marketAU/bmw_com/Remote-Software-Upgrade/210203_RSU_FINAL_AUmarket.pdf.asset.1622106485233.pdf)
 >  - [201207_RSU_Release_Notes20_en](https://www.bmw.com/content/dam/bmw/marketAU/bmw_com/Remote-Software-Upgrade/201207_RSU_Release_Notes20_en-AUMARKET.pdf.asset.1622189346797.pdf)
 
