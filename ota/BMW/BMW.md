@@ -15,23 +15,26 @@
   - [UI / How to OTA](#ui--how-to-ota)
   - [Update log](#update-log)
     - [2021.10.11 : Ver.21-07](#20211011--ver21-07)
+    - [過去のリリースノート](#過去のリリースノート)
   - [Billing contents](#billing-contents)
 
 <!-- /code_chunk_output -->
 
-
+---
 
 ## Web links
 
 - [BMW - EN](https://www.bmw.com/en/index.html)  
 - [BMW - JP](https://www.bmw.co.jp/ja/index.html)
 
+---
 
 ## News
 
 - **2021.10.11** : iDrive OS7搭載車両にVer.21-07をOTAソフトアップデート
   - [Sheer Driving Pleasure gets an update: New Remote Software Upgrade for around two million BMW vehicles worldwide.](https://www.press.bmwgroup.com/global/article/detail/T0348312EN/sheer-driving-pleasure-gets-an-update:-new-remote-software-upgrade-for-around-two-million-bmw-vehicles-worldwide?language=en)
 
+---
 
 ## Summarize
 
@@ -47,9 +50,13 @@
 - ソフトウェアバージョン確認：
 - 更新中の充電：
 
+---
+
 ## UI / How to OTA
 
 - [BMW OTA update UI](BMW-UI.md)
+
+---
 
 ## Update log
   
@@ -79,6 +86,53 @@
 > - 参照リンク：
 >   - [Sheer Driving Pleasure gets an update: New Remote Software Upgrade for around two million BMW vehicles worldwide.](https://www.press.bmwgroup.com/global/article/detail/T0348312EN/sheer-driving-pleasure-gets-an-update:-new-remote-software-upgrade-for-around-two-million-bmw-vehicles-worldwide?language=en)
 >   - [The new BMW Remote Software Upgrade is here. (Version 21-07) - YouTube](https://www.youtube.com/watch?v=pnKLdsrBcEY)
+
+### 過去のリリースノート
+
+参考リンク
+>  - [Keep your BMW fully up to date: all Remote Software Upgrades at a glance | BMW.com.au](https://www.bmw.com/en-au/offers-and-services/bmw-digital-services-and-connectivity/all-remote-software-upgrades.html)
+>  - [210203_RSU_FINAL_AUmarket.pdf.asset.1622106485233.pdf](https://www.bmw.com/content/dam/bmw/marketAU/bmw_com/Remote-Software-Upgrade/210203_RSU_FINAL_AUmarket.pdf.asset.1622106485233.pdf)
+>  - [201207_RSU_Release_Notes20_en](https://www.bmw.com/content/dam/bmw/marketAU/bmw_com/Remote-Software-Upgrade/201207_RSU_Release_Notes20_en-AUMARKET.pdf.asset.1622189346797.pdf)
+
+<br>
+
+- **Ver.20-11**
+  - BMW M Laptimer: Make your performance measurable!
+  - Your personal driver profile in the BMW: Scan the QR code and get started!
+  - Emission-relevant technical campagn
+- **Ver.07-20**
+  - Android Auto™
+  - Apple CarPlay®
+  - BMW Intelligent Personal Assistant
+  - Contactless tailgate opening
+  - Legal specification: one-sided parking light feature 
+- **Ver.11-19**
+  - BMW Intelligent Personal Assistant (feature upgrade)
+  - BMW Intelligent Personal Assistant widget (feature upgrade)
+  - BMW Drive Recorder (preparation for store purchase)
+  - Parking Assistant for spaces perpendicular to the road (feature upgrade)
+  - Active Park Distance Control (feature upgrade)
+  - Checkbox for the daytime running light with taillight 
+- **Ver.07-19**
+  - IMPORTANT NOTE: Park the vehicle in a safe area away from traffic for installation!
+  - BMW Intelligent Personal Assistant (feature upgrade)
+  - Parking Assistant for spaces perpendicular to the road (feature upgrade)
+  - Remote Controlled Parking (new feature)
+  - Active Park Distance Control (feature upgrade) 
+- **Ver.03-19**
+  - IMPORTANT NOTE: Park the vehicle in a safe area away from traffic for installation!
+  - Use natural language with your BMW Intelligent Personal Assistant. It can explain
+everything about the vehicle and help you get to know your BMW better.
+  - Drive with more comfort and dynamism – cruise control with Stop&Go function
+  - Park more easily – Park Assist for parking in parallel and perpendicular to the road
+  - Safely stay in lane – enhanced Lane Control Assistant with active side collision
+protection
+  - Stay relaxed and let the vehicle do the parking – adapted sound output with active Park
+Assist
+  - ... and many more features. 
+
+
+---
 
 ## Billing contents
 
