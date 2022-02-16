@@ -12,9 +12,10 @@
   - [Web links](#web-links)
   - [News](#news)
   - [Summarize](#summarize)
-  - [UI / How to OTA](#ui--how-to-ota)
+  - [UI / How to OTA](#ui-how-to-ota)
   - [Update log](#update-log)
-    - [2021.10.11 : Ver.21-07](#20211011--ver21-07)
+    - [2021.10.11 : Ver.21-07](#20211011-ver21-07)
+    - [2021.10.11 : Ver.21-03](#20211011-ver21-03)
     - [過去のリリースノート](#過去のリリースノート)
   - [Billing contents](#billing-contents)
 
@@ -60,6 +61,7 @@
 
 ## Update log
 
+- [Remote Software Upgrade: The Software Update from BMW | BMW.co.za](https://www.bmw.co.za/en/topics/offers-and-services/bmw-digital-services-and-connectivity/remote-software-upgrade.html)
 - [Keep your BMW fully up to date: all Remote Software Upgrades at a glance | BMW.com.au](https://www.bmw.com/en-au/offers-and-services/bmw-digital-services-and-connectivity/all-remote-software-upgrades.html)
   
 ### 2021.10.11 : Ver.21-07
@@ -89,9 +91,19 @@
 >   - [Sheer Driving Pleasure gets an update: New Remote Software Upgrade for around two million BMW vehicles worldwide.](https://www.press.bmwgroup.com/global/article/detail/T0348312EN/sheer-driving-pleasure-gets-an-update:-new-remote-software-upgrade-for-around-two-million-bmw-vehicles-worldwide?language=en)
 >   - [The new BMW Remote Software Upgrade is here. (Version 21-07) - YouTube](https://www.youtube.com/watch?v=pnKLdsrBcEY)
 
+
+### 2021.10.11 : Ver.21-03
+
+[Keep your BMW fully up to date: the Remote Software Upgrade 21-03 | BMW.co.za](https://www.bmw.co.za/en/topics/offers-and-services/bmw-digital-services-and-connectivity/remote-software-upgrade-21-03.html)
+
+> - 車線逸脱警報：設定の記憶が可能に
+> - 品質の向上：
+>   - Android11で音楽トラックを変更する際の問題が解消
+
 ### 過去のリリースノート
 
 参考リンク
+>  - [Keep your BMW fully up to date: all Remote Software Upgrades at a glance | BMW.co.za](https://www.bmw.co.za/en/topics/offers-and-services/bmw-digital-services-and-connectivity/all-remote-software-upgrades.html)
 >  - [210203_RSU_FINAL_AUmarket.pdf.asset.1622106485233.pdf](https://www.bmw.com/content/dam/bmw/marketAU/bmw_com/Remote-Software-Upgrade/210203_RSU_FINAL_AUmarket.pdf.asset.1622106485233.pdf)
 >  - [201207_RSU_Release_Notes20_en](https://www.bmw.com/content/dam/bmw/marketAU/bmw_com/Remote-Software-Upgrade/201207_RSU_Release_Notes20_en-AUMARKET.pdf.asset.1622189346797.pdf)
 

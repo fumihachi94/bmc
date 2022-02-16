@@ -96,9 +96,42 @@ BMW OS8 のOTA更新方法の説明動画は以下
 
 [How to start a Remote Software Upgrade – BMW How-To - YouTube](https://www.youtube.com/watch?v=N58Zjde3DNo)
 
-[<img src="./image/ota-how-to.png" width=50%>](https://www.youtube.com/watch?v=N58Zjde3DNo)
+[<img src="./image/bmw-os7-ota-how-to-start.png" width=50%>](https://www.youtube.com/watch?v=N58Zjde3DNo)
 
-## リリースノート [Version 21-07]
+[How to finish a Remote Software Upgrade – BMW How-To - YouTube](https://www.youtube.com/watch?v=4UEmTHtZdNw)
+
+[<img src="./image/bmw-os7-ota-how-to-finish.png" width=50%>](https://www.youtube.com/watch?v=4UEmTHtZdNw)
+
+- ダウンロード完了後、アップグレード可能であることをスマホに通知
+- ダウンロードはバックグラウンドで実施（pre-install）
+- ダウンロードの進捗はナビメニューの「Remote Software Upgrade」から確認可能
+- 更新が可能な状態で、IG-OFFするとアップグレードの案内通知がナビ画面に表示
+- そこから選択していくと、条件を満たした場合に更新が始まる
+- 更新中は車両使用不可
+- 更新時間は約20分間
+- 更新中のキャンセルは不可
+- 電源供給が必要なデバイス（スマホなど）は更新前に外しておく
+- 安全な場所に駐車されていること
+- 更新中は乗っていてもいいし、車両から降りてロックしておくことも可能
+- 更新完了するとスマホに通知がいく
+
+![](2022-02-16-22-32-23.png)
+
+![](2022-02-16-22-30-58.png)
+
+![](2022-02-16-22-17-31.png)
+
+![](2022-02-16-22-39-07.png)
+
+![](2022-02-16-22-39-36.png)
+
+![](2022-02-16-22-41-01.png)
+
+![](2022-02-16-22-41-35.png)
+
+![](2022-02-16-22-41-48.png)
+
+## リリースノートの表示 [Version 21-07]
 
 - **WEB版 Release Note**
 
