@@ -5,38 +5,40 @@
 
 <!-- code_chunk_output -->
 
-- [ADAS / Software Update Trend](#adas--software-update-trend)
+- [ADAS / Software Update Trend](#adas-software-update-trend)
+- [2022/02/28](#20220228)
+  - [Polestar : Polestar2のOTAアップデート](#polestar-polestar2のotaアップデート)
 - [2021/09/13](#20210913)
-  - [VW : IDシリーズにOTAソフトウェア更新を開始](#vw--idシリーズにotaソフトウェア更新を開始)
-  - [Toyota : Advanced Drive の OTAソフトウェアアップデート](#toyota--advanced-drive-の-otaソフトウェアアップデート)
+  - [VW : IDシリーズにOTAソフトウェア更新を開始](#vw-idシリーズにotaソフトウェア更新を開始)
+  - [Toyota : Advanced Drive の OTAソフトウェアアップデート](#toyota-advanced-drive-の-otaソフトウェアアップデート)
 - [2021/06/27](#20210627)
-  - [Volvo : 次世代EVにLuminar LiDAR/NVIDIA DRIVE Orin採用を発表](#volvo--次世代evにluminar-lidarnvidia-drive-orin採用を発表)
-  - [Tesla : FSD v9のリリースでサブスクも導入か](#tesla--fsd-v9のリリースでサブスクも導入か)
-  - [Tesla : オートシフトを導入](#tesla--オートシフトを導入)
+  - [Volvo : 次世代EVにLuminar LiDAR/NVIDIA DRIVE Orin採用を発表](#volvo-次世代evにluminar-lidarnvidia-drive-orin採用を発表)
+  - [Tesla : FSD v9のリリースでサブスクも導入か](#tesla-fsd-v9のリリースでサブスクも導入か)
+  - [Tesla : オートシフトを導入](#tesla-オートシフトを導入)
 - [2021/05/26](#20210526)
-  - [Tesla : レーダーを排除しカメラ](#tesla--レーダーを排除しカメラ)
+  - [Tesla : レーダーを排除しカメラ](#tesla-レーダーを排除しカメラ)
 - [2021/04/23](#20210423)
-  - [Tesla : Model3のOTA更新機能について【最新版】](#tesla--model3のota更新機能について最新版)
+  - [Tesla : Model3のOTA更新機能について【最新版】](#tesla-model3のota更新機能について最新版)
 - [2021/04/17](#20210417)
-  - [Toyota : MIRAIアドバンスドドライブ試乗レポート（五味さん）](#toyota--miraiアドバンスドドライブ試乗レポート五味さん)
-  - [Other : 各社ハンズオフ制御名称](#other--各社ハンズオフ制御名称)
-  - [Ford : 2021年秋頃にハンズオフ機能(BlueCruise)をOTAで機能追加することを発表](#ford--2021年秋頃にハンズオフ機能bluecruiseをotaで機能追加することを発表)
+  - [Toyota : MIRAIアドバンスドドライブ試乗レポート（五味さん）](#toyota-miraiアドバンスドドライブ試乗レポート五味さん)
+  - [Other : 各社ハンズオフ制御名称](#other-各社ハンズオフ制御名称)
+  - [Ford : 2021年秋頃にハンズオフ機能(BlueCruise)をOTAで機能追加することを発表](#ford-2021年秋頃にハンズオフ機能bluecruiseをotaで機能追加することを発表)
 - [2021/04/11](#20210411)
-  - [Tesla : $2Kで加速度を向上させる課金サービスを提供](#tesla--2kで加速度を向上させる課金サービスを提供)
+  - [Tesla : $2Kで加速度を向上させる課金サービスを提供](#tesla-2kで加速度を向上させる課金サービスを提供)
 - [2021/04/08](#20210408)
-  - [Geely : ガソリン車でのOTA更新を実装](#geely--ガソリン車でのota更新を実装)
-  - [NIO : FOTA 差分更新をサポート](#nio--fota-差分更新をサポート)
+  - [Geely : ガソリン車でのOTA更新を実装](#geely-ガソリン車でのota更新を実装)
+  - [NIO : FOTA 差分更新をサポート](#nio-fota-差分更新をサポート)
 - [2021/03/31](#20210331)
-  - [VW : Microsoftと提携し自動運転開発を加速](#vw--microsoftと提携し自動運転開発を加速)
+  - [VW : Microsoftと提携し自動運転開発を加速](#vw-microsoftと提携し自動運転開発を加速)
   - [マツダ： 販売店入庫による無償有線ソフト更新を提供](#マツダ-販売店入庫による無償有線ソフト更新を提供)
   - [BMW: iDrive8からADAS機能OTA可能に](#bmw-idrive8からadas機能ota可能に)
 - [2021/3/16](#2021316)
   - [Tesla FSDは買替えで引き継げない](#tesla-fsdは買替えで引き継げない)
-  - [Tesla china : FSD付き車両の買い替えで次回FSD半額](#tesla-china--fsd付き車両の買い替えで次回fsd半額)
+  - [Tesla china : FSD付き車両の買い替えで次回FSD半額](#tesla-china-fsd付き車両の買い替えで次回fsd半額)
 - [2021/3/8](#202138)
   - [自動運転Lv3の動向](#自動運転lv3の動向)
-  - [VW ID.3/ID.4 : OTAソフトウェア更新を今夏から欧州で開始](#vw-id3id4--otaソフトウェア更新を今夏から欧州で開始)
-  - [Ford Mustang Mach-E : 一部所有者限定でOTAベータ配信の実施](#ford-mustang-mach-e--一部所有者限定でotaベータ配信の実施)
+  - [VW ID.3/ID.4 : OTAソフトウェア更新を今夏から欧州で開始](#vw-id3id4-otaソフトウェア更新を今夏から欧州で開始)
+  - [Ford Mustang Mach-E : 一部所有者限定でOTAベータ配信の実施](#ford-mustang-mach-e-一部所有者限定でotaベータ配信の実施)
   - [Audiのビッグデータ活用：路面状態から警告を行う](#audiのビッグデータ活用路面状態から警告を行う)
 - [2021/2/19](#2021219)
   - [Bosch, Microsoft が共同でOTA-SUプラットフォームを開発](#bosch-microsoft-が共同でota-suプラットフォームを開発)
@@ -64,6 +66,35 @@
   - [Sony Vision-S](#sony-vision-s)
 
 <!-- /code_chunk_output -->
+
+# 2022/02/28
+
+## Polestar : Polestar2のOTAアップデート
+
+PolestarはGeely/Volvoの傘下で、スウェーデンで生産されるEVとメーカー
+
+- 40%以上の充電があること
+- 充電中でないこと
+- 車両から降り、鍵をすること
+- インストール中は車両を操作することができない
+- ダウンロードは走行中に実施される（１時間は走行していたとのこと）
+
+更新時間： 最大 1時間30分（2021/3頃の配信のもの）
+更新回数：12回/年（2021）
+更新内容：
+- versoinP1.9 (2021最後の更新)の場合
+  - 先行車発進通知機能の追加（ACC中のみ）
+  - レーンキープアシストの操舵サポート改善
+  - 後退時自動ブレーキの改善（物体トラッキング性能の向上）
+  - デジタルキー機能の安定化
+
+＊その他はリリースノート参照
+
+> - How To 
+> [Polestar 2 OTA Update - First attempt! - YouTube](https://www.youtube.com/watch?v=j140-LfgCYE)
+> - Release Note 
+> [Software updates](https://www.polestar.com/uk/manual/polestar-2/2021/article/softwareUpdates/)
+
 
 # 2021/09/13
 
