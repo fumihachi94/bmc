@@ -5,13 +5,29 @@
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
+<!-- code_chunk_output -->
+
+- [Volvo Benchmark on Software Update](#volvo-benchmark-on-software-update)
+  - [Web links](#web-links)
+  - [News](#news)
+  - [Summarize](#summarize)
+  - [UI / How to OTA](#ui-how-to-ota)
+  - [Update log](#update-log)
+    - [XC60/S90/V90/XC40(BEV)/C40 Recharge - 2022 Model](#xc60s90v90xc40bevc40-recharge-2022-model)
+  - [Billing contents](#billing-contents)
+  - [Other](#other)
+
+<!-- /code_chunk_output -->
+
 
 ---
 
 ## Web links
 
-- [BMW - EN](https://www.bmw.com/en/index.html)  
-- [ソフトウェアアップデート | Volvo サポート](https://www.volvocars.com/jp/support/software-release-notes)
+- [Volvo - EN](https://www.volvo.com/en/)  
+- [Volvo - JP](https://www.volvocars.com/jp?utm_source=google_sem_jp&utm_medium=cpc&utm_content=brand_other_text_brandname-res&utm_campaign=local_google_brandname_regular&gclid=CjwKCAjw6dmSBhBkEiwA_W-EoNIdQN8M8XP6AhTXJxn1cQxKFjaECL-leDr_hL4MlAH-GJQ67dGn3BoCQZgQAvD_BwE)
+- [Software Update | Volvo Support](https://www.volvocars.com/jp/support/software-release-notes)
+- [Owners Manual - XC60 2022 Early Model](https://www.volvocars.com/en-eg/support/manuals/xc60/2021w22/maintenance-and-service/general-topics/software-updates)
 
 ---
 
@@ -33,8 +49,6 @@
 
 ## Summarize
 
-調査中
-
 | Item          | Description                                 |
 | ------------- | ------------------------------------------- |
 | OTA対象         | マルチメディア、バッテリーマネジメント、ADASシステム、認識、パワートレーンシステム、地図 |
@@ -49,7 +63,7 @@
 | ソフトウェアバージョン確認 |                                             |
 | 更新頻度          | 計8回 (2022.4.9時点) [^S2]                           |
 | 対象国 | オーストラリア、香港、インド、韓国、マレーシア、ニュージーランド、シンガポール、台湾、タイ [^S2] |
-| 対象車両          | XC90, S60, V60 (2022.4.7時点) [^S2]                |
+| 対象車両          | XC60, S90, V90 XC40(BEV), C40 Recharge / 2022 Model (2022.4.7時点) [^S2]                |
 | 更新通知             | - ダウンロード：自動的に開始される場合と、通知をしてから開始される場合がある <br> - インストール：車両起動時に通知[^S3]                                            |
 |更新予約|インストールのリマインダー設定が可能[^S3]|
 | ダウンロード中の制約        | 特になし                                            |
@@ -79,8 +93,55 @@
 
 ## Update log
 
+制御OTA、OTA機能に関わる更新内容をメインにピックアップ
 
-### 過去のリリースノート
+### XC60/S90/V90/XC40(BEV)/C40 Recharge - 2022 Model
+
+> ##### Software V2.0
+> - 運転中に「インストール」選択で、駐車＆キーロックで自動的にインストール開始
+　（以前は、インストール開始時に設定が必要だった）
+> - カメラアプリの安定性向上
+> - パーキングセンサのバグ修正
+
+> ##### Software V1.10
+> - 実線の車線でレーン・キーピング・エイドが介入するときのステアリングサポートを改善。
+> - Rear Auto Brakeの感度向上 - 後退時の障害物追跡機能の向上。
+
+> ##### Software V1.9
+> - **OTAでは提供されない**。サービス向上でのみ提供される（ディーラーでのツールによる更新）。
+
+> ##### Software V1.8
+> - 歩行者・サイクリスト検知機能の改良。
+> - 運転者サポート機能Pilot Assistおよびアダプティブクルーズコントロールの改良。
+> - ドライバーディスプレイの前方衝突警告システム不具合シンボルを新規追加(法的要件)。
+
+> ##### Software V1.7 ( 2021.10.12 [*](https://volvoforums.com/forum/volvo-recharge-models-60/software-version-1-7-a-107790/))
+> - ソフトウェアバージョン情報が利用できるようになりました。
+>   - ソフトウェアバージョン番号がセンターディスプレイに表示されます。
+>   - 現在および今後のソフトウェアアップデートに関するリリースノートがセンターディスプレイおよびボルボ・カーズサポートサイトで利用できるようになります。
+> - リアオートブレーキ(RAB)の感度を調整して自動洗車機の使用時に作動する危険性を低減させました。
+> - 日本市場向けにセンターディスプレイに自動料金収受システムアプリを導入しました。
+> - ソフトウェアアップデート通知がモバイルアプリで利用できるようになります。
+>   - ダウンロードが完了してインストールの準備ができたアップデート、インストール開始/インストール中、インストールの結果が通知されます。
+
+> ##### Software V1.6
+> - 運転者サポートシステムの安定性、パフォーマンス、機能の向上。
+
+> ##### Software V1.5
+> - Pilot Assistの変更
+>   - Pilot Assistモード(ステアリングアシストあり/なし)の切り替えが、センターディスプレイに移動
+>   - デフォルト設定は、ステアリングアシストありのPilot Assistです。設定ページからアクセスできます。- Pilot Assistの起動、速度設定、先行者までの距離設定は、これまで同様、ステアリングホイールのコントロールボタンで行ないます。
+>   - ドライバーディスプレイとセンターディスプレイの、Pilot Assistと運転者サポートのアイコンがアップデートされました。
+
+> ##### Software V1.4
+> - OTAソフトウェアアップデート:完了済みアップデートの通知が表示されない問題が修正されました。
+
+> ##### Software V1.3
+
+> ##### Software V1.2
+> - パークアシストカメラの360°ビュー: 品質と安定性の向上
+> - OTA (Over-the-Air) 品質と安定性の向上
+
 
 参考リンク
 
