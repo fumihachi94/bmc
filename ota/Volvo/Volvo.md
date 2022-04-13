@@ -1,24 +1,10 @@
-[<img src="./image/BMW-icon.png" width=70px>](https://www.bmw.com/en/index.html)
+[<img src="../asset/volvo/volvo-icon.png" width=70px>](https://www.volvo.com/en/)
 
-# BMW Benchmark on Software Update 
-
+# Volvo Benchmark on Software Update 
 
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
-<!-- code_chunk_output -->
-
-- [BMW Benchmark on Software Update](#bmw-benchmark-on-software-update)
-  - [Web links](#web-links)
-  - [News](#news)
-  - [Summarize](#summarize)
-  - [UI / How to OTA](#ui-how-to-ota)
-  - [Update log](#update-log)
-    - [過去のリリースノート](#過去のリリースノート)
-  - [Billing contents](#billing-contents)
-  - [Other](#other)
-
-<!-- /code_chunk_output -->
 
 ---
 
@@ -52,7 +38,7 @@
 | Item          | Description                                 |
 | ------------- | ------------------------------------------- |
 | OTA対象         | マルチメディア、バッテリーマネジメント、ADASシステム、認識、パワートレーンシステム、地図 |
-| 通信契約          | 車載通信                                          |
+| 通信契約          | 車載通信 （セルラー通信）*パーソナルSIMの利用可能[^S4]                                         |
 | 機能制限          |                                             |
 | 更新中の車両利用      |  走行中のダウンロード[^S3]                                           |
 | ダウンロード時間 | 場合によって数時間[^S3] |
@@ -76,6 +62,7 @@
 [^S1]: [車両システムのアップデート | Sensus Connect(センサスコネクト) | サポートと法的記事 | Volvo サポート](https://www.volvocars.com/jp/support/topics/kasisutemu/sensus-connect-sensasukonekuto/che-liang-sisutemunoatupudeto)
 [^S2]: [All new Volvo car models can now receive over-the-air software updates as latest upgrade reaches over 190,000 customers across 34 markets - Volvo Cars Global Media Newsroom](https://www.media.volvocars.com/global/en-gb/media/pressreleases/298383/all-new-volvo-car-models-can-now-receive-over-the-air-software-updates-as-latest-upgrade-reaches-ove)
 [^S3]: [Software updates | General topics | Maintenance and service | XC60 2022 Early | Volvo Support](https://www.volvocars.com/en-eg/support/manuals/xc60/2021w22/maintenance-and-service/general-topics/software-updates)
+[^S4]: [カーモデム(SIMカード)を介して車両をインターネットに接続する | Volvo On Callに関する実用的情報 | Volvo On Call | XC60 2019 Early | Volvo サポート](https://www.volvocars.com/jp/support/manuals/xc60/2018w17/volvo-on-call/volvo-on-callniguan-surushi-yong-de-qing-bao/kamodemu-simkado-wojie-siteche-liang-wointanetutonijie-sok-suru)
 
 ---
 
